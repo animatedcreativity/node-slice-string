@@ -1,0 +1,31 @@
+{
+  "name": "node-slice-string",
+  "version": "0.0.1",
+  "description": "Search and slice string easily to get all remaining parts or the single one in any direction.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/animatedcreativity/node-slice-string"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "string",
+    "slice",
+    "remaining",
+    "first",
+    "last",
+    "split",
+    "left",
+    "right",
+    "parts"
+  ]
+}
