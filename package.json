@@ -1,6 +1,6 @@
 {
   "name": "node-slice-string",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Search and slice string easily to get all remaining parts or the single one in any direction.",
   "main": "main.js",
   "scripts": {
